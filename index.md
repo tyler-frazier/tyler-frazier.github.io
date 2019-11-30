@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Welcome to my William & Mary webpage! I am a Lecturer of Interdisciplinary Studies in the Data Science program, where the central focus of my research and teaching is upon geospatial human development processes.   I teach two courses at William & Mary, Wicked Problems and Evolving Solutions (Human Development & Data Science), where I introduce students to interpreted programming languages (primarily R & LaTeX) as the means to describe, analyze, model, simulate and communicate the results from their exploratory investigations into the dimensions of global human development.  
 
-You can use the [editor on GitHub](https://github.com/tyler-frazier/tyler-frazier.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Contact Me:  
+Charles Center  
+William & Mary  
+P.O. Box 8795  
+Williamsburg, VA 23187-8795   
+<a href = "mailto: tjfrazier@wm.edu">tjfrazier@wm.edu</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Office Hours: Fridays from 1 to 5PM
 
-### Markdown
+Teaching:  
+DATA 100 / COLL 100  -  <a href = "https://tyzao.github.io/wicked_problems/">Wicked Problems</a>  
+DATA 150 / COLL 150  -  <a href = "https://tyzao.github.io/evolving_solutions/">Evolving Solutions (Human Development & Data Science)</a>  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Resources:  
+<a href = "https://tyzao.github.io/geohumanpro/data">Data Sources</a>  
+<a href = "https://tyzao.github.io/geohumanpro/research">Curated Literature</a>  
+<a href = "https://tyzao.github.io/geohumanpro/learning">Learning R for Geospatial Data Science</a>  
+<a href = "https://tyzao.github.io/geohumanpro/groups">Geospatial Data Science Groups</a>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tyler-frazier/tyler-frazier.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Advanced Topics:
