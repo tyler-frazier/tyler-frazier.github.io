@@ -10,13 +10,13 @@ Williamsburg, VA 23187-8795
 Office Hours: Fridays from 1 to 5PM
 
 Teaching:  
-DATA 100 / COLL 100  -  <a href = "https://tyzao.github.io/wicked_problems/">Wicked Problems</a>  
-DATA 150 / COLL 150  -  <a href = "https://tyzao.github.io/evolving_solutions/">Evolving Solutions (Human Development & Data Science)</a>  
+DATA 100 / COLL 100  -  <a href = "https://tyler-frazier.github.io/wicked_problems/">Wicked Problems</a>  
+DATA 150 / COLL 150  -  <a href = "https://tyler-frazier.github.io/evolving_solutions/">Evolving Solutions (Human Development & Data Science)</a>  
 
 Resources:  
-<a href = "https://tyzao.github.io/geohumanpro/data">Data Sources</a>  
-<a href = "https://tyzao.github.io/geohumanpro/research">Curated Literature</a>  
-<a href = "https://tyzao.github.io/geohumanpro/learning">Learning R for Geospatial Data Science</a>  
-<a href = "https://tyzao.github.io/geohumanpro/groups">Geospatial Data Science Groups</a>
+<a href = "https://tyler-frazier.github.io/geohumanpro/data">Data Sources</a>  
+<a href = "https://tyler-frazier.github.io/geohumanpro/research">Curated Literature</a>  
+<a href = "https://tyler-frazier.github.io/geohumanpro/learning">Learning R for Geospatial Data Science</a>  
+<a href = "https://tyler-frazier.github.io/geohumanpro/groups">Geospatial Data Science Groups</a>
 
 Advanced Topics:
