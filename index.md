@@ -14,6 +14,7 @@ DATA 100 / COLL 100  -  <a href = "https://tyler-frazier.github.io/wicked_proble
 DATA 150 / COLL 150  -  <a href = "https://tyler-frazier.github.io/evolving_solutions/">Evolving Solutions (Human Development & Data Science)</a>  
 
 DATA 310 - Applied Machine Learning (Summer '20 & Spring '21)
+
 DATA 440 - Agent-Based Modelling (Fall '20)
 
 Resources:  
