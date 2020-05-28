@@ -13,7 +13,7 @@ Teaching:
 DATA 100 / COLL 100  -  <a href = "https://tyler-frazier.github.io/wicked_problems/">Wicked Problems</a>  
 DATA 150 / COLL 150  -  <a href = "https://tyler-frazier.github.io/evolving_solutions/">Evolving Solutions (Human Development & Data Science)</a>  
 
-DATA 310 - Applied Machine Learning (Summer '20 & Spring '21)  
+DATA 310 - <a href = "https://tyler-frazier.github.io/applied_machine_learning/">Applied Machine Learning</a> (Summer '20 & Spring '21)  
 DATA 440 - <a href = "https://tyler-frazier.github.io/agent_based_models/">Agent-Based Modelling</a> (Fall '20)
 
 
