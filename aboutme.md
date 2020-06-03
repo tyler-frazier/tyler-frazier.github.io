@@ -23,6 +23,9 @@ Tyler James Frazier is a Lecturer in the Data Science program at William & Mary.
 
 Dr. Frazier received his Ph.D. in Geography from the University of Bonn, Germany in 2011, a Masters in City and Regional Planning from the Georgia Institute of Technology in 2001, and a Bachelor of Arts in Architectural History from the Savannah College of Art and Design in 1999.  In 2001, Tyler forwent admission to Georgia Tech's Masters of Mechanical Engineering program, to begin his career in land use planning, development and management.  During this time period, he authored, administered, coordinated and managed numerous different land use applications at the state, regional and county levels.  He is a certified member of the American Institute of Certified Planners (AICP) and has been accepted as an expert witness on land use matters during both judicial and quasi-judicial proceedings in both Georgia and Florida.
 
+<br>
+<br>
+
 For a comprehensive resume of his work, please see this [curriculum vitae](tyler-frazier.github.io).
 
 </p>
