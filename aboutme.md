@@ -8,6 +8,10 @@ cover-img:
   - "/images/wren.jpeg" : "Williamsburg, Virginia (2015)"
   - "/images/sfi.jpeg" : "Santa Fe, New Mexico (2013)"
   - "/images/rainbow.jpeg" : "Cape Town, South Africa (2013)"
+  - "/images/sony.jpeg" : "Berlin, Germany (2011)"
+  - "/images/lake.jpeg" : "Lake Louise, Canada (2011)"
+  - "/images/tyler.jpeg" : "Khayelitsha, South Africa (2011)"
+
 ---
 
 <p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
