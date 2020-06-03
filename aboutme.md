@@ -16,7 +16,7 @@ cover-img:
   margin-bottom: 15px;
   text-align: justify;">
 
-Tyler James Frazier is a Lecturer of Data Science at William & Mary.  His research and teaching focus on the use of data science methods to describe, analyze, model and predict human development patterns and processes.  Prior to joining William & Mary in the summer of 2015, Tyler previously held academic appointments at the Santa Fe Institute, the Technical University of Berlin and the University of Bonn. He also previously served as a visiting lecturer at the Technical University of Munich and the University of Ghana, Legon.  His research has been supported by funding from the Volkswagen Foundation, the Bill and Melinda Gates Foundation and the German Federal Ministry of Education and Research. 
+Tyler James Frazier is a Lecturer of Data Science at William & Mary.  His research and teaching focus on the use of data science methods to describe, analyze, model and predict human development patterns and processes.  Prior to joining William & Mary in the summer of 2015, Tyler held academic appointments at the Santa Fe Institute, the Technical University of Berlin and the University of Bonn. He also previously served as a visiting lecturer at the Technical University of Munich and the University of Ghana, Legon.  His research has been supported by funding from the Volkswagen Foundation, the Bill and Melinda Gates Foundation and the German Federal Ministry of Education and Research. 
 
 <br>
 <br>
