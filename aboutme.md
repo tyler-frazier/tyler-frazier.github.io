@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Me
 subtitle: A brief bio
 cover-img: 
