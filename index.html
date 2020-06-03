@@ -1,0 +1,40 @@
+---
+layout: page
+title: Tyler Frazier
+subtitle: Lecturer of Interdisciplinary Studies <br> Data Science Program <br> William & Mary
+css: "/css/index.css"
+---
+
+<p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  font-weight: 1000;
+  margin-bottom: 15px;
+  text-align: center;">
+	
+Teaching
+	
+</p>
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article>
+    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
+	    <h2 class="post-title">{{ post.title }}</h2>
+	
+	    {% if post.subtitle %}
+	    <h3 class="post-subtitle">
+	      {{ post.subtitle }}
+	    </h3>
+	    {% endif %}
+      <p class="post-meta">
+        Introduced {{ post.date | date: "%B %-d, %Y" }}
+      </p>
+
+      <div class="post-entry">
+        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
+      </div>
+    </a>  
+   </article>
+  {% endfor %}
+</div>
