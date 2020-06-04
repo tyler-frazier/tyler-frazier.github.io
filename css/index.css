@@ -63,19 +63,6 @@
   background: #f5f5f5;
 }
 
-
-.posts2-list article {
-  border-bottom: 1px solid #eee;
-}
-.posts2-list article:last-child {
-  border-bottom: 0;
-}
-.posts2-list article:hover {
-  background: #f5f5f5;
-}
-
-
-
 .post-preview {
   text-decoration: none !important;
   color: #404040 !important;

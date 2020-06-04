@@ -193,16 +193,6 @@ defaults:
 
   -
     scope:
-      path: ""
-      type: "posts2"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
-
-  -
-    scope:
       path: "" # all files
     values:
       layout: "page"
