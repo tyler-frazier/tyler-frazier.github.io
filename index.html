@@ -39,24 +39,6 @@ Teaching
   {% endfor %}
 </div>
 
-Publications
+# Publications
 
-<article>
-    <a class="post-preview" href="https://tyler-frazier.github.io/pdds/">
-	    <h2 class="post-title">{{ post.title }}</h2>
-	
-	    {% if post.subtitle %}
-	    <h3 class="post-subtitle">
-	      {{ post.subtitle }}
-	    </h3>
-	    {% endif %}
-      <p class="post-meta">
-        Introduced {{ post.date | date: "%B %-d, %Y" }}
-      </p>
 
-      <div class="post-entry">
-        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
-      </div>
-    </a>  
-   </article>
