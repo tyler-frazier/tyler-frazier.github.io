@@ -10,7 +10,10 @@ css: "/css/index.css"
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article>
-    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
+    <!-- <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}"> -->
+    
+    <a class="post-preview" href="/tutorials" class="list-filter">Teaching
+    
 	    <h2 class="post-title">{{ post.title }}</h2>
 	
 	    {% if post.subtitle %}
