@@ -34,6 +34,6 @@ Between 2001 and 2006, I authored numerous land use and development applications
 <br>
 <br>
 
-For a comprehensive resume of his work, please see this [curriculum vitae](tyler-frazier.github.io).
+For a comprehensive resume, please see my [curriculum vitae](tyler-frazier.github.io).
 
 </p>
