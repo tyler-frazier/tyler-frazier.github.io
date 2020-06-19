@@ -19,7 +19,7 @@ cover-img:
   margin-bottom: 15px;
   text-align: justify;">
 
-Welcome! My name is Tyler Frazier and I am a Lecturer of Data Science at William & Mary, where I generally conduct research in the area of population and development data science.  Prior to joining William & Mary in the spring of 2015, I held academic appointments at the University of Bonn - Center for Development Research, the Santa Fe Institute, and the Technical University of Berlin - Institute for Transport System Planning and Transport Telematics. I also previously served as a visiting lecturer at the Technical University of Munich, the Kwame Nkrumah University of Science and Technology and the University of Ghana, Legon.  My research has been supported by funding from the Volkswagen Foundation, the Bill and Melinda Gates Foundation and the German Federal Ministry of Education and Research. 
+Welcome! My name is Tyler Frazier and I am a Lecturer of Data Science at William & Mary, where I generally conduct research in the area of population and development data science.  Prior to joining William & Mary in the spring of 2015, I held academic appointments at the University of Bonn - Center for Development Research, the Santa Fe Institute, and the Technical University of Berlin - Institute for Transport System Planning and Transport Telematics. I also previously served as a visiting lecturer at the Technical University of Munich, the Kwame Nkrumah University of Science and Technology and the University of Ghana, Legon.  Individually, my research has been supported by funding from the Volkswagen Foundation, the Bill and Melinda Gates Foundation and the German Federal Ministry of Education and Research.
 
 <br>
 <br>
@@ -29,7 +29,7 @@ I received my Ph.D. in Natural Sciences from the faculty of Geography at the Uni
 <br>
 <br>  
 
-Between 2001 and 2006, I authored numerous land use and development applications at the state, regional and county levels in both Georgia and Florida, and obtained certification as a member of the American Institute of Certified Planners (AICP).  I am fluent in German, conversant in Portuguese, and informally conversant with Twi (Ghana), French and Spanish.  From 2007 until 2012, I held a permanent residence in Ghana, staying there for several extended periods while conducting field research and project related work.  While the scope of my teaching broadly focuses on population and development data science, my primary research focus is in the human development of West Africa with emphasis on the Repubic of Ghana.
+From 2001 and 2006, I worked as a land use planner mostly on projects located in the southeastern United States, and in 2004 obtained certification as a member of the American Institute of Certified Planners (AICP).  I am fluent in German, conversant in Portuguese, and informally conversant with Twi (Ghana), French and Spanish.  From 2007 until 2012, I held a permanent residence in Ghana, staying there for several extended periods while conducting field research and project related work.  While the scope of my teaching broadly focuses on population and development data science, my primary research focus is in the human development of West Africa with emphasis on the Repubic of Ghana.
 
 <br>
 <br>
