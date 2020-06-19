@@ -29,7 +29,7 @@ I received my Ph.D. in Natural Sciences from the faculty of Geography at the Uni
 <br>
 <br>  
 
-From 2001 until 2006, I worked as a land use planner mostly on projects located in the Southeastern United States, and in 2004 became a certified member of the American Institute of Certified Planners (AICP).  I am fluent in German, conversant in Portuguese, and informally conversant with Twi (Ghana), French and Spanish.  From 2007 until 2012, I held a permanent residence in Ghana, living there for several extended periods while conducting field research and project related work.  While the scope of my teaching broadly focuses on population and development data science, my primary research focus is in the human development of West Africa with emphasis on the Repubic of Ghana.
+From 2001 until 2006, I worked as a land use planner mostly on projects located in the Southeastern United States, and in 2004 became a certified member of the American Institute of Certified Planners (AICP).  I am fluent in German, conversant in Portuguese, and informally conversant with Twi (Ghana), French and Spanish.  From 2007 until 2012, I held a permanent residence in Ghana, living there for several extended periods during field research and project related work.  While the scope of my research and teaching broadly focuses on population and development data science, my primary research focus is in the human development of West Africa with emphasis on the Repubic of Ghana.
 
 <br>
 <br>
