@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   My Teaching Philosophy: "myphilosophy"
   My Research Focus: "myfocus"
-  My Institutional Home: "myhome"
+  My Institutional Home:
     - William & Mary: "https://www.wm.edu"
     - Data Science: "https://www.wm.edu/as/data-science/advisors/frazier_t/index.php"
 
