@@ -13,10 +13,11 @@ author: Tyler Frazier
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://tyler-frazier.github.io/"
+  My Teaching Philosophy: "myphilosophy"
+  My Research Focus: "myfocus"
+  My Institutional Home: "myhome"
+    - William & Mary: "https://www.wm.edu"
+    - Data Science: "https://www.wm.edu/as/data-science/advisors/frazier_t/index.php"
 
 # --- Logo --- #
 
