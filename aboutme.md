@@ -24,7 +24,7 @@ Welcome! My name is Tyler Frazier and I am a Lecturer of Data Science at William
 <br>
 <br>
 
-I received my Ph.D. in Natural Sciences from the faculty of Geography at the University of Bonn, Germany in 2011, a Masters of Science in City Planning from the Georgia Institute of Technology in 2001, and a Bachelor of Arts with a major in Architectural History from the Savannah College of Art and Design in 1999. In 2001, I forwent enrollment towards obtaining a second Masters in Mechanical Engineering to begin working as a professional land use and development planner, on projects with budgets that often ranged upwards of several million USDs.  I have been accepted as an expert witness on land use matters in judicial and quasi-judicial proceedings in both Georgia and Florida, while in 2004 I became a member of the American Institute of Certified Planners (AICP).    
+I received my Ph.D. in Geography from the University of Bonn, Germany in 2011, a Masters of City Planning from the Georgia Institute of Technology in 2001, and a Bachelor of Arts in Architectural History from the Savannah College of Art and Design in 1999. In 2001, I desisted pursuit of a second Masters in Mechanical Engineering to begin working as a professional land use and development planner, on projects with budgets that often ranged upwards of several million USDs.  I have been accepted as an expert witness on land use matters in judicial and quasi-judicial proceedings in both Georgia and Florida, while in 2004 I became a member of the American Institute of Certified Planners (AICP).    
 
 <br>
 <br>  
