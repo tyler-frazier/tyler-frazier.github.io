@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-subtitle: A brief bio
+title: My Teaching
+subtitle: My pledge as an Instructor
 cover-img: 
   - "/images/water.jpeg" : "Cape Coast, Ghana (2008)"
   - "/images/tree.jpeg" : "Loreley, Germany (2009)"
