@@ -13,7 +13,7 @@ author: Tyler Frazier
 
 navbar-links:
   About Me: "aboutme"
-  My Teaching: "myphilosophy"
+  My Teaching: "teaching"
   My Research: "myfocus"
   Institutional Home:
     - William & Mary: "https://www.wm.edu"
