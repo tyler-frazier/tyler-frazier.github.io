@@ -13,7 +13,7 @@ author: Tyler Frazier
 
 navbar-links:
   About Me: "aboutme"
-  My Teaching: "myphilosophy"
+  My Teaching: "teaching"
   My Research: "myfocus"
   Institutional Home:
     - William & Mary: "https://www.wm.edu"
@@ -175,7 +175,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 6
 
 kramdown:
   input: GFM
