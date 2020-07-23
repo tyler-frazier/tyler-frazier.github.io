@@ -10,6 +10,7 @@ cover-img:
   - "/images/rainbow.jpeg" : "Cape Town, South Africa (2013)"
   - "/images/sony.jpeg" : "Berlin, Germany (2011)"
   - "/images/lake.jpeg" : "Lake Louise, Canada (2011)"
+  - "/images/settlement.jpg" : "Khayelitsha, Cape Town (2013)"
 
 ---
 
