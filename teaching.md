@@ -12,8 +12,8 @@ cover-img:
   - "/images/lake.jpeg" : "Lake Louise, Canada (2011)"
   - "/images/settlement.jpg" : "Khayelitsha, Cape Town (2013)"
   - "/images/sun.jpg" : "Cape of Good Hope, Cape Town (2013)"
-  - "/images/mountain.jpg" : "Schloss Neuschwanstein, Bavaria (2007)"
-  - "/images/meeting.jpg" : "Legon, Accra (2008)"
+  - "/images/mountain.jpeg" : "Schloss Neuschwanstein, Bavaria (2007)"
+  - "/images/meeting.JPG" : "Legon, Accra (2008)"
 
 ---
 
