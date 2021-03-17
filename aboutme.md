@@ -14,6 +14,10 @@ cover-img:
   - "/images/sun.jpg" : "Cape of Good Hope, Cape Town (2013)"
   - "/images/mountain.jpeg" : "Schloss Neuschwanstein, Bavaria (2007)"
   - "/images/meeting.jpg" : "Legon, Accra (2008)"
+  - "/images/beach.jpg" : "Sullivan's Island, South Carolina (2014)"
+  - "/images/fort.jpg" : "Fort Moultrie, South Carolina (2015)"
+  - "/images/boats.jpg" : "Armação, Florianópolis - Santa Catarina, Brazil (2007)"
+  - "/images/path.jpg" : "Bonn, Germany (2008)"
 
 ---
 
