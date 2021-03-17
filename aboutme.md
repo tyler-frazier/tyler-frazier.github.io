@@ -18,6 +18,7 @@ cover-img:
   - "/images/fort.jpg" : "Fort Moultrie, South Carolina (2015)"
   - "/images/boats.jpg" : "Armação, Florianópolis - Santa Catarina, Brazil (2007)"
   - "/images/path.jpg" : "Bonn, Germany (2008)"
+  - "/images/school.jpg" : "Edison Park, Fort Myers, Florida (2010)"
 
 ---
 
