@@ -28,12 +28,12 @@ Welcome! My name is Tyler Frazier and I am a Lecturer of Data Science at William
 <br>
 <br>
 
-I received my Ph.D. in Geography from the University of Bonn, Germany in 2011, my Master of City Planning from the Georgia Institute of Technology in 2001, and my Bachelor of Arts in Architectural History from the Savannah College of Art and Design in 1999. My research and teaching focus on data use in statistical programming to describe, analyze, model and predict human and community scale, development patterns and processes. For more than ten years my primary programming language has been R with the sp/sf, raster, spatstat and ggplot/tidyverse  packages, while more recently I have returned to using python with tensorflow.  I am conversant in German and Portuguese, and informally conversant in Twi (Ghana), French and Spanish.  While the scope of my research and teaching broadly focuses on population and development data science, my primary research focus is on the human development processes of West Africa with emphasis on the Republic of Ghana.
+I received my Ph.D. in Geography from the University of Bonn, Germany in 2011, my Master of City Planning from the Georgia Institute of Technology in 2001, and my Bachelor of Arts in Architectural History from the Savannah College of Art and Design in 1999. My research and teaching focus on data use in statistical programming to describe, analyze, model and predict human and community scale, development patterns and processes. For more than ten years my primary programming language has been R, while I also have considerable experience using python.  I am conversant in German and Portuguese, and informally conversant in Twi (Ghana), French and Spanish.  While the scope of my research and teaching broadly focuses on population and development data science, my primary research focus is on the human development processes of West Africa with emphasis on the Republic of Ghana.
 
 <br>
 <br>
 
-Additionally, I have been accepted as an expert witness on land use matters in judicial and quasi-judicial proceedings in both Georgia and Florida, while in 2004 I became a member of the American Institute of Certified Planners (AICP).
+Additionally, I have been accepted as an expert witness on land use matters in judicial and quasi-judicial proceedings in both Georgia and Florida.  In 2004, I became a member of the American Institute of Certified Planners (AICP).
 
 <br>
 <br>
