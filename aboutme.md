@@ -23,7 +23,7 @@ cover-img:
   margin-bottom: 15px;
   text-align: justify;">
 
-Welcome! My name is Tyler Frazier and I am a Lecturer of Data Science at William & Mary, where I generally practice research and teaching in the area of population and development data science.  Prior to joining William & Mary in the spring of 2015, I held academic appointments at the University of Bonn - Center for Development Research, the Santa Fe Institute, and the Technical University of Berlin - Institute for Transport System Planning and Transport Telematics. I also previously served as a visiting lecturer at the Technical University of Munich, the Kwame Nkrumah University of Science and Technology and the University of Ghana, Legon.  My research has been supported by funding from the Volkswagen Foundation, the Bill and Melinda Gates Foundation and the German Federal Ministry of Education and Research.
+Welcome! My name is Tyler Frazier, and I am a Lecturer of Data Science at William & Mary, where I generally practice research and teaching in the area of population and development data science.  Prior to joining William & Mary in the spring of 2015, I held academic appointments at the University of Bonn - Center for Development Research, the Santa Fe Institute, and the Technical University of Berlin - Institute for Transport System Planning and Transport Telematics. I also previously served as a visiting lecturer at the Technical University of Munich, the Kwame Nkrumah University of Science and Technology and the University of Ghana, Legon.  My research has been supported by funding from the Volkswagen Foundation, the Bill and Melinda Gates Foundation and the German Federal Ministry of Education and Research.
 
 <br>
 <br>
