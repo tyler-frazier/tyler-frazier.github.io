@@ -19,6 +19,7 @@ cover-img:
   - "/images/boats.jpg" : "Armação, Florianópolis - Santa Catarina, Brazil (2007)"
   - "/images/path.jpg" : "Bonn, Germany (2008)"
   - "/images/school.jpg" : "Edison Park, Fort Myers, Florida (2010)"
+  - "/images/knust.jpg" : "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (2009)"
 
 ---
 
