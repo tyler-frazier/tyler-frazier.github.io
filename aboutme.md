@@ -21,7 +21,7 @@ cover-img:
   - "/images/school.jpg" : "Edison Park, Fort Myers, Florida (2010)"
   - "/images/knust.jpg" : "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (2009)"
   - "/images/aburi.jpg" : "Center for Scientific Research into Plant Medicine, Aburi, Ghana (2009)"
-
+  - "/images/forum.jpg" : "National Land Forum, GIMPA, Accra, Ghana (2007)"
 
 ---
 
