@@ -22,7 +22,7 @@ cover-img:
   - "/images/knust.jpg" : "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (2009)"
   - "/images/aburi.jpg" : "Center for Scientific Research into Plant Medicine, Aburi, Ghana (2009)"
   - "/images/forum.jpg" : "National Land Forum, GIMPA, Accra, Ghana (2007)"
-
+  - "/images/meadows.jpg" : "Gallery Building of Herrenhausen Gardens, Hannover, Germany (2012)"
 ---
 
 <p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
