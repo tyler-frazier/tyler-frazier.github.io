@@ -24,7 +24,10 @@ cover-img:
   - "/images/forum.jpg" : "National Land Forum, GIMPA, Accra, Ghana (2007)"
   - "/images/meadows.jpg" : "Gallery Building of Herrenhausen Gardens, Hannover, Germany (2012)"
   - "/images/enter.jpg" : "Santa Fe Institute, Santa Fe, New Mexico (2013)"
-
+  - "/images/qubes.JPG" : "Integrated Science Center, Williamsburg, Virginia (2019)"
+  - "/images/tucker.JPG" : "Tucker Hall, Williamsburg, Virginia (2015)"
+  - "/images/jamestown.JPG" : "James City, Virginia (2019)"
+  - "/images/james.JPG" : "James River, Virginia (2017)"
 ---
 
 <p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
