@@ -13,8 +13,8 @@ author: Tyler Frazier
 
 navbar-links:
   About Me: "aboutme"
-  My Teaching: "teaching"
-  My Research: "myfocus"
+  Teaching: "teaching"
+  Research: "myfocus"
   Institutional Home:
     - William & Mary: "https://www.wm.edu"
     - Data Science: "https://www.wm.edu/as/data-science/"
