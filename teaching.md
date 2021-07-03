@@ -30,7 +30,7 @@ Spring 2021
 <a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>
 <br> <br>
 
-College Curriculum Courses - Continuous
+Fall 2021 & Spring 2022
 <br>
 <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
 <br>
