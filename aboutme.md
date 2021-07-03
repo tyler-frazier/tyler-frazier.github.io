@@ -12,7 +12,7 @@ subtitle: Brief bio
 
 Welcome! My name is Tyler Frazier, and I am a Lecturer of Data Science at William & Mary, where I have generally practiced research and teaching in the area of population and development data science, since the spring of 2015.  My research and teaching focus on the use of data science methods to describe, analyze, model and predict human and community scale, development patterns and processes, primarily using the programming languages python, R and java.  While the scope of my research and teaching broadly focuses on population and development data science, my primary research focus is on the human development processes of West Africa with emphasis on the Republic of Ghana.  Additionally, I am a member of the American Institute of Certified Planners (AICP).  
 
-<br>
+<br> <br>
 
 For more information, please see my <a href="https://tyler-frazier.github.io/tjfrazier_cv.pdf">curriculum vitae</a>.
 
