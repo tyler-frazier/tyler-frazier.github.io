@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Courses Created and Taught
-subtitle: Teaching
+title: Teaching
+subtitle: Courses Created and Taught
 ---
 
 <p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
