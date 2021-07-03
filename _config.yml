@@ -15,7 +15,6 @@ navbar-links:
   About Me: "aboutme"
   My Teaching: "teaching"
   My Research: "myfocus"
-  My CV: "https://tyler-frazier.github.io/website_plus/index.html#resume"
   Institutional Home:
     - William & Mary: "https://www.wm.edu"
     - Data Science: "https://www.wm.edu/as/data-science/"
