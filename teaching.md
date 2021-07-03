@@ -18,17 +18,17 @@ Summer 2021
 Fall 2021
 <br>
 <a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>
-<br>
+<br> <br>
 
 Spring 2022
 <br>
 <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
-<br>
+<br> <br>
 
 Spring 2021
 <br>
 <a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>
-<br>
+<br> <br>
 
 College Curriculum Courses
 <br>
