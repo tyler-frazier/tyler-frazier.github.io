@@ -13,8 +13,8 @@ author: Tyler Frazier
 
 navbar-links:
   About Me: "aboutme"
-  My Teaching: "https://tyler-frazier.github.io/website_plus/index.html#services"
-  My Research: "https://tyler-frazier.github.io/website_plus/index.html#portfolio"
+  My Teaching: "teaching"
+  My Research: "myfocus"
   My CV: "https://tyler-frazier.github.io/website_plus/index.html#resume"
   Institutional Home:
     - William & Mary: "https://www.wm.edu"

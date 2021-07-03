@@ -3,17 +3,28 @@ layout: page
 title: My Research
 subtitle: My central research question in focus
 cover-img: 
-  - "/images/water.jpeg" : "Cape Coast, Ghana (2008)"
-  - "/images/tree.jpeg" : "Loreley, Germany (2009)"
-  - "/images/wren.jpeg" : "Williamsburg, Virginia (2015)"
-  - "/images/sfi.jpeg" : "Santa Fe, New Mexico (2013)"
-  - "/images/rainbow.jpeg" : "Cape Town, South Africa (2013)"
-  - "/images/sony.jpeg" : "Berlin, Germany (2011)"
-  - "/images/lake.jpeg" : "Lake Louise, Canada (2011)"
-  - "/images/settlement.jpg" : "Khayelitsha, Cape Town (2013)"
-  - "/images/sun.jpg" : "Cape of Good Hope, Cape Town (2013)"
-  - "/images/mountain.jpeg" : "Schloss Neuschwanstein, Bavaria (2007)"
-  - "/images/meeting.jpg" : "Legon, Accra (2008)"
+
+[comment]: <> (  - "/images/water.jpeg" : "Cape Coast, Ghana &#40;2008&#41;")
+
+[comment]: <> (  - "/images/tree.jpeg" : "Loreley, Germany &#40;2009&#41;")
+
+[comment]: <> (  - "/images/wren.jpeg" : "Williamsburg, Virginia &#40;2015&#41;")
+
+[comment]: <> (  - "/images/sfi.jpeg" : "Santa Fe, New Mexico &#40;2013&#41;")
+
+[comment]: <> (  - "/images/rainbow.jpeg" : "Cape Town, South Africa &#40;2013&#41;")
+
+[comment]: <> (  - "/images/sony.jpeg" : "Berlin, Germany &#40;2011&#41;")
+
+[comment]: <> (  - "/images/lake.jpeg" : "Lake Louise, Canada &#40;2011&#41;")
+
+[comment]: <> (  - "/images/settlement.jpg" : "Khayelitsha, Cape Town &#40;2013&#41;")
+
+[comment]: <> (  - "/images/sun.jpg" : "Cape of Good Hope, Cape Town &#40;2013&#41;")
+
+[comment]: <> (  - "/images/mountain.jpeg" : "Schloss Neuschwanstein, Bavaria &#40;2007&#41;")
+
+[comment]: <> (  - "/images/meeting.jpg" : "Legon, Accra &#40;2008&#41;")
 
 ---
 
