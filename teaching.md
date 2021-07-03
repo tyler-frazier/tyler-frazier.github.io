@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: Courses Created and Taught
+subtitle: Courses by Semester
 ---
 
 <p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -30,7 +30,7 @@ Spring 2021
 <a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>
 <br> <br>
 
-College Curriculum Courses
+College Curriculum Courses - Continuous
 <br>
 <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
 <br>
