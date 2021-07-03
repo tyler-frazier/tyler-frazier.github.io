@@ -62,6 +62,6 @@ Additionally, I have been accepted as an expert witness on land use matters in j
 <br>
 <br>
 
-For more information, please see my <a href="https://tyler-frazier.github.io/website_plus/tjfrazier_cv_42621_nocontact.pdf">curriculum vitae</a>.
+For more information, please see my <a href="https://tyler-frazier.github.io/tjfrazier_cv.pdf">curriculum vitae</a>.
 
 </p>
