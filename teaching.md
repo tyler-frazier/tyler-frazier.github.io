@@ -10,32 +10,31 @@ subtitle: Courses Created and Taught
   margin-bottom: 15px;
   text-align: justify;">
 
-Current Courses, Summer 2021  
-
+Summer 2021
 <br>
-<br>
-
 <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
-
-<br>
 <br>
 
-<a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>  
-
+Fall 2021
 <br>
-<br>
-
-<a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>  
-
-
-<br>
+<a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>
 <br>
 
-...
-
+Spring 2022
 <br>
+<a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
 <br>
 
-...
+Spring 2021
+<br>
+<a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>
+<br>
+
+College Curriculum Courses
+<br>
+<a href = "https://tyler-frazier.github.io/evolving_solutions/">Human Development & Data Science</a>
+<br>
+<a href = "https://tyler-frazier.github.io/wicked_problems/">Wicked Problems</a>
+<br>
 
 </p>
