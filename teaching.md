@@ -10,7 +10,9 @@ subtitle: Teaching
   margin-bottom: 15px;
   text-align: justify;">
 
-...
+# Current Courses, Summer 2021
+
+<a href = "https://tyler-frazier.github.io/applied_machine_learning/">Data 310, Applied Machine Learning</a>
 
 <br>
 <br>
