@@ -3,24 +3,42 @@ layout: page
 title: About Me
 subtitle: A brief bio
 cover-img: 
-  - "/images/water.jpeg" : "Cape Coast, Ghana (2008)"
-  - "/images/tree.jpeg" : "Loreley, Germany (2009)"
-  - "/images/wren.jpeg" : "Williamsburg, Virginia (2015)"
-  - "/images/sony.jpg" : "Berlin, Germany (2011)"
-  - "/images/settlement.jpg" : "Khayelitsha, Cape Town (2013)"
-  - "/images/sun.jpg" : "Cape of Good Hope, Cape Town (2013)"
-  - "/images/mountain.jpeg" : "Schloss Neuschwanstein, Bavaria (2007)"
-  - "/images/meeting.jpg" : "Legon, Accra (2008)"
-  - "/images/fort.jpg" : "Fort Moultrie, South Carolina (2015)"
-  - "/images/path.jpg" : "Bonn, Germany (2008)"
-  - "/images/knust.jpg" : "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (2009)"
-  - "/images/aburi.jpg" : "Center for Scientific Research into Plant Medicine, Aburi, Ghana (2009)"
-  - "/images/forum.jpg" : "National Land Forum, GIMPA, Accra, Ghana (2007)"
-  - "/images/meadows.jpg" : "Gallery Building of Herrenhausen Gardens, Hannover, Germany (2012)"
-  - "/images/enter.jpg" : "Santa Fe Institute, Santa Fe, New Mexico (2013)"
-  - "/images/qubes.JPG" : "Integrated Science Center, Williamsburg, Virginia (2019)"
-  - "/images/jamestown.JPG" : "James City, Virginia (2019)"
-  - "/images/james.JPG" : "James River, Virginia (2017)"
+
+[comment]: <> (  - "/images/water.jpeg" : "Cape Coast, Ghana &#40;2008&#41;")
+
+[comment]: <> (  - "/images/tree.jpeg" : "Loreley, Germany &#40;2009&#41;")
+
+[comment]: <> (  - "/images/wren.jpeg" : "Williamsburg, Virginia &#40;2015&#41;")
+
+[comment]: <> (  - "/images/sony.jpg" : "Berlin, Germany &#40;2011&#41;")
+
+[comment]: <> (  - "/images/settlement.jpg" : "Khayelitsha, Cape Town &#40;2013&#41;")
+
+[comment]: <> (  - "/images/sun.jpg" : "Cape of Good Hope, Cape Town &#40;2013&#41;")
+
+[comment]: <> (  - "/images/mountain.jpeg" : "Schloss Neuschwanstein, Bavaria &#40;2007&#41;")
+
+[comment]: <> (  - "/images/meeting.jpg" : "Legon, Accra &#40;2008&#41;")
+
+[comment]: <> (  - "/images/fort.jpg" : "Fort Moultrie, South Carolina &#40;2015&#41;")
+
+[comment]: <> (  - "/images/path.jpg" : "Bonn, Germany &#40;2008&#41;")
+
+[comment]: <> (  - "/images/knust.jpg" : "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana &#40;2009&#41;")
+
+[comment]: <> (  - "/images/aburi.jpg" : "Center for Scientific Research into Plant Medicine, Aburi, Ghana &#40;2009&#41;")
+
+[comment]: <> (  - "/images/forum.jpg" : "National Land Forum, GIMPA, Accra, Ghana &#40;2007&#41;")
+
+[comment]: <> (  - "/images/meadows.jpg" : "Gallery Building of Herrenhausen Gardens, Hannover, Germany &#40;2012&#41;")
+
+[comment]: <> (  - "/images/enter.jpg" : "Santa Fe Institute, Santa Fe, New Mexico &#40;2013&#41;")
+
+[comment]: <> (  - "/images/qubes.JPG" : "Integrated Science Center, Williamsburg, Virginia &#40;2019&#41;")
+
+[comment]: <> (  - "/images/jamestown.JPG" : "James City, Virginia &#40;2019&#41;")
+
+[comment]: <> (  - "/images/james.JPG" : "James River, Virginia &#40;2017&#41;")
 ---
 
 <p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
