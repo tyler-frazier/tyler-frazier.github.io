@@ -13,7 +13,7 @@ subtitle: Courses Created and Taught
 Summer 2021
 <br>
 <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
-<br>
+<br> <br>
 
 Fall 2021
 <br>
