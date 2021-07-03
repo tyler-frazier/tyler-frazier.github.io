@@ -32,9 +32,9 @@ Spring 2021
 
 College Curriculum Courses
 <br>
-<a href = "https://tyler-frazier.github.io/evolving_solutions/">Human Development & Data Science</a>
+<a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
 <br>
-<a href = "https://tyler-frazier.github.io/wicked_problems/">Wicked Problems</a>
+<a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a>
 <br>
 
 </p>
