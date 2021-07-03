@@ -12,12 +12,18 @@ subtitle: Courses Created and Taught
 
 Current Courses, Summer 2021  
 
+<br>
+<br>
+
 <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
 
 <br>
 <br>
 
 <a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>  
+
+<br>
+<br>
 
 <a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>  
 
