@@ -1,32 +1,30 @@
 ---
 layout: page
-title: Tyler Frazier
-subtitle: Lecturer of Data Science <br> William & Mary
-css: "/css/index.css"
+title: Courses Created and Taught
+subtitle: Teaching
 ---
 
-<h1 style="text-align:center"> Teaching </h1>
+<p style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 15px;
+  text-align: justify;">
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article>
-    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">    
-	    <h2 class="post-title">{{ post.title }}</h2>
+...
 
-	    {% if post.subtitle %}
-	    <h3 class="post-subtitle">
-	      {{ post.subtitle }}
-	    </h3>
-	    {% endif %}
-      <p class="post-meta">
-        Introduced {{ post.date | date: "%B %-d, %Y" }}
-      </p>
+<br>
+<br>
 
-      <div class="post-entry">
-        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
-      </div>
-    </a>  
-   </article>
-  {% endfor %}
-</div>
+...
+
+<br>
+<br>
+
+...
+
+<br>
+<br>
+
+...
+
+</p>
