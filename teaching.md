@@ -19,7 +19,7 @@ subtitle: Courses by Semester
     <li> Fall 2021 & Spring 2022: <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a> <br> <a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a></li>
 </ul>
 
-<b><u>Past Courses</u></b> <br>
+<h4>Past Courses</h4> <br>
 
 Spring 2021
 <br>
