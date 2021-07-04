@@ -10,7 +10,7 @@ subtitle: Courses by Semester
   margin-bottom: 15px;
   text-align: justify;">
 
-Upcoming Courses  
+<u>Upcoming Courses</u>  
 <br> <br>
 
 Summer 2021
@@ -35,7 +35,7 @@ Fall 2021 & Spring 2022
 <a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a>
 <br> <br>
 
-Past Courses  
+<u>Past Courses</u>  
 <br> <br>
 
 Spring 2021
