@@ -15,7 +15,7 @@ subtitle: Courses by Semester
 <ul style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
-  text-align: justify;">
+  margin-bottom: 15px;">
 
 <ul>
     <li> Summer 2021: <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a> </li>
