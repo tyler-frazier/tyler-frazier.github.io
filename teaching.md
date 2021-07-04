@@ -25,12 +25,32 @@ Spring 2022
 <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
 <br> <br>
 
+Fall 2021 & Spring 2022
+<br>
+<a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
+<br>
+<a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a>
+<br>
+
+Past Courses  
+<br> <br>
+
 Spring 2021
 <br>
 <a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>
 <br> <br>
 
-Fall 2021 & Spring 2022
+Fall 2020
+<br>
+<a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>
+<br> <br>
+
+Summer 2020
+<br>
+<a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
+<br> <br>
+
+Fall & Spring 2015 to 2021
 <br>
 <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
 <br>
