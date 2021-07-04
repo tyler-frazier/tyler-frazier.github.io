@@ -10,6 +10,9 @@ subtitle: Courses by Semester
   margin-bottom: 15px;
   text-align: justify;">
 
+Upcoming Courses  
+<br> <br>
+
 Summer 2021
 <br>
 <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
@@ -30,7 +33,7 @@ Fall 2021 & Spring 2022
 <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
 <br>
 <a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a>
-<br>
+<br> <br>
 
 Past Courses  
 <br> <br>
