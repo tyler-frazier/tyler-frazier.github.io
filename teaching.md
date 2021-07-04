@@ -21,26 +21,12 @@ subtitle: Courses by Semester
 
 <h4>Past Courses</h4> <br>
 
-Spring 2021
-<br>
-<a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a>
-<br> <br>
-
-Fall 2020
-<br>
-<a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>
-<br> <br>
-
-Summer 2020
-<br>
-<a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a>
-<br> <br>
-
-Fall & Spring 2015 to 2021
-<br>
-<a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a>
-<br>
-<a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a>
-<br>
+<ul>
+    <li> Spring 2021: <a href = "https://tyler-frazier.github.io/intro_data_science/">DATA 146, Introduction to Data Science</a> </li>
+    <li> Fall 2020: <a href = "https://tyler-frazier.github.io/agent_based_modeling/">DATA 444, Agent Based Modeling</a>
+ </li>
+    <li> Summer 2020: <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a></li>
+    <li> Fall & Spring 2015 to 2021: <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a> <br> <a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a></li>
+</ul>
 
 </p>
