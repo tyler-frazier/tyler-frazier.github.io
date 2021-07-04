@@ -12,6 +12,11 @@ subtitle: Courses by Semester
 
 <b><u>Upcoming Courses</u></b> <br>
 
+<ul style = "font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 15px;
+  text-align: justify;">
 
 <ul>
     <li> Summer 2021: <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a> </li>
@@ -19,6 +24,8 @@ subtitle: Courses by Semester
     <li> Spring 2022: <a href = "https://tyler-frazier.github.io/applied_machine_learning/">DATA 310, Applied Machine Learning</a></li>
     <li> Fall 2021 & Spring 2022: <a href = "https://tyler-frazier.github.io/evolving_solutions/">DATA 150, Human Development & Data Science</a> <br> <a href = "https://tyler-frazier.github.io/wicked_problems/">DATA 100, Wicked Problems</a></li>
 </ul>
+
+
 
 <b><u>Past Courses</u></b> <br>
 
